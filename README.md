@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hoang Dung
 
-🌐 **Web Developer | Frontend Enthusiast | Aspiring Full-Stack | SEO Learner**
+🌐 **Web Engineer | Aspiring Technical Lead**
 
 ---
 
