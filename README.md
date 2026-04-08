@@ -1,7 +1,3 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
 <h3 align="center">
   Hi, I’m a Frontend Engineer with 3+ years of experience
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -35,7 +31,9 @@ I focus on:
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Nanostores](https://img.shields.io/badge/Nanostores-000000?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge)
 
 #### 🧪 Testing
 
